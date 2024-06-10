@@ -1,0 +1,5 @@
+first image = /content/cats-and-dogs-for-classification/cats_dogs/test/dogs/dog.4004.jpg
+second image = /content/cats-and-dogs-for-classification/cats_dogs/test/cats/cat.4005.jpg
+
+
+data set = https://www.kaggle.com/datasets/dineshpiyasamara/cats-and-dogs-for-classification
